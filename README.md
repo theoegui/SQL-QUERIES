@@ -59,7 +59,7 @@ SELECT COUNT (*) FROM ALBUM WHERE label = 'Columbia';
 Functions used to perform specific operations on data. Above is a function that is used to find the number of rows matching the condition in the WHERE CLAUSE.
 
 There are so many select statements , its not even funny . Below is even more examples but eventually we will definitely go over them later.
-![intro 7](https://user-images.githubusercontent.com/13667918/27877571-30b9e872-6189-11e7-866d-5ec93c078d37.jpg)
+![intro 7](https://user-images.githubusercontent.com/13667918/27880781-3b097e40-6194-11e7-8168-98819da57ef9.jpg)
 
 
 
