@@ -101,3 +101,12 @@ There are so many select statements , its not even funny . Below is even more ex
 ![dsc_0112](https://user-images.githubusercontent.com/13667918/27891535-70a79882-61c8-11e7-90e0-bf23a532d500.JPG)
 ![dsc_0113](https://user-images.githubusercontent.com/13667918/27891536-70b69c1a-61c8-11e7-85e8-af571ab40b46.JPG)
 ![dsc_0114](https://user-images.githubusercontent.com/13667918/27891537-70b7b492-61c8-11e7-9f6e-ea2eaa7e057f.JPG)
+![dsc_0115](https://user-images.githubusercontent.com/13667918/27892092-aaed759a-61cb-11e7-879b-aa0ab8640599.JPG)
+![dsc_0116](https://user-images.githubusercontent.com/13667918/27892093-aaf17532-61cb-11e7-9ce3-3d725fafb701.JPG)
+![dsc_0118](https://user-images.githubusercontent.com/13667918/27892094-aaf6878e-61cb-11e7-89c5-8858511e75a2.JPG)
+![dsc_0119](https://user-images.githubusercontent.com/13667918/27892096-aafc2568-61cb-11e7-9e62-a3ba32e6714c.JPG)
+![dsc_0120](https://user-images.githubusercontent.com/13667918/27892095-aaf75b82-61cb-11e7-804f-ee6ece66ae31.JPG)
+![dsc_0121](https://user-images.githubusercontent.com/13667918/27892097-aafe3c9a-61cb-11e7-9edf-ec2b17ffe5c4.JPG)
+![dsc_0123](https://user-images.githubusercontent.com/13667918/27892098-ab02e704-61cb-11e7-855f-5319ef2a186e.JPG)
+![dsc_0124](https://user-images.githubusercontent.com/13667918/27892099-ab0c2c92-61cb-11e7-9a48-d7d77557f0ee.JPG)
+
