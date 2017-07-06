@@ -62,6 +62,8 @@ There are so many select statements , its not even funny . Below is even more ex
 ![intro 7](https://user-images.githubusercontent.com/13667918/27880781-3b097e40-6194-11e7-8168-98819da57ef9.jpg)
 
 
+COPY and Paste here
+
 
 ![dsc_0077](https://user-images.githubusercontent.com/13667918/27890791-250ab846-61c3-11e7-9ad9-b538b512d33b.JPG)
 ![dsc_0078](https://user-images.githubusercontent.com/13667918/27890793-250fe6ea-61c3-11e7-8114-0377b2984593.JPG)
